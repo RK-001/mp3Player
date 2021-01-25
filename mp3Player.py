@@ -52,7 +52,7 @@ class musicPlayer:
         control_frame = Frame(main_frame)
         control_frame.grid(pady=20)
         # Define Button Images For Controls
-        backBtnImg = PhotoImage(file='images/back50.png')
+#         backBtnImg = PhotoImage(file='images/back50.png')
 
         # create  button objects
         backBtn = Button(control_frame, text="prev", borderwidth=1, width=6, height=1, font=(
