@@ -1,3 +1,12 @@
+'''
+MP3Player using tkinter and pygame
+
+Auther : RK-001
+created On : 20/1/2021
+
+
+'''
+
 from tkinter import *
 from tkinter import filedialog  # to choose song from file
 import pygame  # for song play, pause and other operation
